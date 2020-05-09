@@ -2,12 +2,12 @@
 # To use this file, rename it to `resume.yml` and delete `resume.json`.
 ---
   basics:
-    name: "Richard Hendricks"
+    name: "Jeong Haan Seock"
     label: "Programmer"
-    picture: "https://placehold.it/126x126"
-    email: ""
-    phone: "(912) 555-4321"
-    website: "https://richardhendricks.com"
+    picture: ""
+    email: "jhs0256@gmail.com"
+    phone: "010-7440-5744"
+    website: ""
     summary: |
       Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and
       Cardinals!)
