@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Deep Learning
 slug: Deep Learning
-category: development
+category: Development
 menu: false
 order: 1
 ---
