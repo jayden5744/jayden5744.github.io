@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
 title: ML
-slug: ML
-category: Development
+slug: ml
+category: dev
 menu: false
 order: 0
 ---

@@ -1,0 +1,10 @@
+---  
+layout: post  
+title: "영어 발음대로 변환 모델 만들기(1)"  
+subtitle: 
+categories: dev
+tags: nlp python 
+comments: true  
+---  
+
+> 영어를 한글발음으로 바꾸는 모델을 진행중입니다.

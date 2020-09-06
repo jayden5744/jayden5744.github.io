@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Development
-slug: Development
+title: Dev
+slug: dev
 menu: true
 submenu: true
 order: 3
